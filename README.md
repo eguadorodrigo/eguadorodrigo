@@ -83,7 +83,4 @@
 ![Windows](https://img.shields.io/badge/-Windows%20-%23525252.svg?style=flat&logo=Windows&)
 
 ## 📫 Preciso falar contigo!
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&color=14274e&link=https://www.linkedin.com/in/rrodrigomiranda/)](https://www.linkedin.com/in/rrodrigomiranda/)
-[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&color=14274e&link=https://whats.link/eguadorodrigo)](https://whats.link/eguadorodrigo)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=14274e&link=mailto:rrodrigocmiranda@gmail.com)](mailto:rrodrigocmiranda@gmail.com)
-[![Apple Badge](https://img.shields.io/badge/-Apple-c14438?style=flat-square&logo=Apple&color=14274e&link=mailto:rrodrigocmiranda@icloud.com)](mailto:rrodrigocmiranda@icloud.com)
+<img src="https://github.com/eguadorodrigo/eguadorodrigo/blob/main/static/img/eguadorodrigo.png" alt="qrcode" width="200"/>
