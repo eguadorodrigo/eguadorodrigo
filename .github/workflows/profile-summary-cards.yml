@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: eguadorodrigo/eguadorodrigo@main
+      - uses: eguadorodrigo/github-profile-summary-cards-example@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
         with:
