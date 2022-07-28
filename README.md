@@ -1,12 +1,11 @@
 ## Oi, tudo bem? Bem vindxs!
 
 * 🔭 Sou do time de desenvolvedores back da Zup, aqui a gente pode topar com qualquer linguagem, mas hoje, sou envolvido mais com Java (Springboot), JavaScript (Node e Angular) e Python até agora... 
-* 🌱 Estudo muita coisa, esse mundo do TI é isso né? hehe mas o foco principal é em Java - onde me sinto em casa - e seus zilhões de frameworks e conteúdos, uso pra microserviços, nas esteiras de CI/CD e zás! 
+* 🌱 Estudo muita coisa, esse mundo do TI é isso né? hehe mas o foco principal é em Java - onde me sinto em casa - e seus frameworks, bibliotecas e conteúdos, seja pra uso de microserviços, seja para o monolito, nas esteiras de CI/CD e por ai vai... 
 * 👯 Eu procuro colaborar de forma mais reservada, não tenho a confiança de publicar muita coisa, mas tenho tentado mudar isso... 
-* 🤔 Como eu disse que estudo muito, ajuda nunca é demais, então sinta-se a vontade, aqui ninguém é dono da verdade... 
-* 💬 Pergunte-me algo aleatório se quiser, dentro de TI você precisa saber bastante coisa de várias áreas, porque não coversar sobre o que for preciso, né...?
+* 🤔 Sou totalmente a favor de pedir e dar ajuda. Então pra mim isso nunca é demais, por tanto, sinta-se a vontade, aqui ninguém é dono da verdade não! 
+* 💬 Pergunte-me algo aleatório se quiser, dentro de TI você precisa saber bastante coisa de várias áreas, então porque não ter papos abertos e descontraídos, seja de tecnologia ou não, né...?
 * ⚡ Fato curioso: Eu gosto de cantar ...
-
 
 ![## Go on](https://c.tenor.com/VlYXAX_AIj8AAAAd/genius-guy-eating.gif)
 
@@ -25,7 +24,6 @@
 ![C++](https://img.shields.io/badge/-C++%20-%23525252.svg?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript%20-%23525252.svg?style=flat&logo=JavaScript&logoColor=yellow&)
 ![TypeScript](https://img.shields.io/badge/-TypeScript%20-%23525252.svg?style=flat&logo=TypeScript&logoColor=blue&)
-![React](https://img.shields.io/badge/-React%20-%23525252.svg?style=flat&logo=React&logoColor=blue&)
 ![Ruby](https://img.shields.io/badge/-Ruby%20-%23525252.svg?style=flat&logo=Ruby&logoColor=red&)
 ![Go](https://img.shields.io/badge/-Golang%20-%23525252.svg?style=flat&logo=go&)
 ![Kotlin](https://img.shields.io/badge/-Kotlin%20-%23525252.svg?style=flat&logo=kotlin&)
@@ -38,6 +36,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3%20-%23525252.svg?style=flat-square&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript%20-%23525252.svg?style=flat&logo=JavaScript&logoColor=yellow&)
 ![TypeScript](https://img.shields.io/badge/-TypeScript%20-%23525252.svg?style=flat&logo=TypeScript&logoColor=blue&)
+![React](https://img.shields.io/badge/-React%20-%23525252.svg?style=flat&logo=React&logoColor=blue&)
 
 #### 🗃 Banco de dados
 ![MySQL](https://img.shields.io/badge/-MySQL%20-%23525252.svg?style=flat&logo=mysql&logoColor=white&)
